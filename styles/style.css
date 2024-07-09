@@ -180,3 +180,29 @@
   font-size: 20px;
   padding: 12px 20px 12px 20px;
 }
+/* DEVELOPER SECTION ENDS HERE */
+
+/* INSPIRE SECTION START HERE */
+.inspire-section{
+  width: 1140px;
+  margin: 50px auto;
+}
+.inspire-head{
+  padding: 0 150px 0 150px;
+  text-align: center;
+}
+.inspire-head-tittle{
+  font-size: 32px;
+  color: rgb(13, 19, 33);
+}
+.inspire-head-subtittle{
+  margin-top: 24px;
+  font-size: 16px;
+  color: rgba(13, 19, 33, 0.7);
+}
+.inspire-youtubevideo{
+  padding: 32px;
+  border-radius: 16px;
+  border: 1px solid gray;
+  margin-top: 48px;
+}
