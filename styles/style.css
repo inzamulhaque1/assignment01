@@ -35,7 +35,7 @@
   /* BANNER SECTION STARTS HERE */
 
   .Banner-section{
-    background-image: url('../assets/hero-bg.png');
+    background-image: url('/assets/bannerbg.png');
     height: 652px;
     margin-top: 38px;
   }
@@ -306,7 +306,7 @@
   margin: 0 auto;
   width: 1050px;
   padding: 64px 48px 64px 48px;
-  background:linear-gradient(90.00deg, rgba(14, 1, 1, 0.329),rgba(0, 0, 0, 0.548),rgba(255, 255, 255, 0) 100%), url(/assets/handshake.jpg);
+  background:linear-gradient(90.00deg, rgba(14, 1, 1, 0.329),rgba(0, 0, 0, 0.548),rgba(255, 255, 255, 0) 100%), url("assets/hand.jpg/");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
