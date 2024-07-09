@@ -206,3 +206,66 @@
   border: 1px solid gray;
   margin-top: 48px;
 }
+/* INSPIRE SECTION ENDS HERE */
+
+/* CURRENT TARGET START HERE*/
+.current-target-mainbox{
+  width: 1140px;
+  margin: 0 auto;
+  margin-top: 152px;
+  text-align: center;
+}
+.current-target-tittle{
+  font-size: 32px;
+  font-weight: 800;
+  color: rgb(13, 19, 33);
+}
+.current-target-subtittle{
+  margin-top: 24px;
+  font-size: 16px;
+  color: rgba(13, 19, 33, 0.7);
+
+}
+.current-target-card-main{
+  margin-top: 48px;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.current-target-html{
+  text-align: left;
+  padding: 40px;
+  width: 364px;
+  background: rgba(255, 76, 30, 0.05);
+  border-radius: 16px;
+}
+.current-target-css{
+  text-align: left;
+  padding: 40px;
+  width: 364px;
+  background: rgba(0, 76, 232, 0.05);
+  border-radius: 16px;
+}
+.current-target-js{
+  text-align: left;
+  padding: 40px;
+  width: 364px;
+  border-radius: 16px;
+  background-color: rgba(255, 223, 0, 0.05);
+}
+.current-target-boxtittle{
+  margin-top: 24px;
+  font-size: 24px;
+  color: rgb(13, 19, 33);
+}
+.current-target-boxsubtittle{
+  margin-top: 24px;
+  font-size: 16px;
+  color: rgba(13, 19, 33, 0.7);
+}
+.current-target-ancor{
+  margin-top: 24px;
+  font-size: 16px;
+}
+/* Next Target Start here */
