@@ -70,3 +70,113 @@
   color: white;
 }
 /* BANNER ENDS HERE */
+/* Developer section start here */
+.development-mainsection{
+  width: 1140px;
+  height: 1395px;
+  background: rgba(13, 19, 33, 0.02);
+  margin: 74px auto 0 auto;
+  border-radius: 16px;
+}
+.Developer-content{
+  padding: 80px 97px 80px 97px;
+  text-align: center;
+}
+.dev-tittle{
+  font-size: 32px;
+}
+.dev-subtittle{
+  margin-top: 24px;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(13, 19, 33, 0.7);
+}
+/* PARENT LAYER */
+.layer-parent{
+  padding: 0 97px 0 97px;
+}
+/* Layer 1 Start Here */
+.layer1{
+  display: flex;
+  padding: 48px;
+  border-radius: 16px;
+  background:linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+}
+
+.layer1-content{
+  margin-right: 200px;
+}
+.layer1-tittle{
+  font-size: 24px;
+  font-weight: 700;
+  color: rgba(13, 19, 33, 0.7);
+}
+.layer1-subtittle{
+  font-size: 16px;
+  color: rgb(13, 19, 33);
+  margin-top: 16px;
+}
+.layer1-button{
+  margin-top: 32px;
+  color: rgb(13, 19, 33);
+  background-color: white;
+  font-size: 20px;
+  padding: 12px 20px 12px 20px;
+}
+/* LAYER 2 STARTS HERE */
+
+.layer2{
+  display: flex;
+  padding: 48px;
+  border-radius: 16px;
+  background:linear-gradient(180.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+}
+
+.layer2-content{
+  margin-left: 200px;
+}
+.layer2-tittle{
+  font-size: 24px;
+  font-weight: 700;
+  color: rgba(13, 19, 33, 0.7);
+}
+.layer2-subtittle{
+  font-size: 16px;
+  color: rgb(13, 19, 33);
+  margin-top: 16px;
+}
+.layer2-button{
+  margin-top: 32px;
+  color: rgb(13, 19, 33);
+  background-color: white;
+  font-size: 20px;
+  padding: 12px 20px 12px 20px;
+}
+/* LAYER 3 START HERE */
+.layer3{
+  display: flex;
+  padding: 48px;
+  border-radius: 16px;
+  background:linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+}
+
+.layer3-content{
+  margin-right: 200px;
+}
+.layer3-tittle{
+  font-size: 24px;
+  font-weight: 700;
+  color: rgba(13, 19, 33, 0.7);
+}
+.layer3-subtittle{
+  font-size: 16px;
+  color: rgb(13, 19, 33);
+  margin-top: 16px;
+}
+.layer3-button{
+  margin-top: 32px;
+  color: rgb(13, 19, 33);
+  background-color: white;
+  font-size: 20px;
+  padding: 12px 20px 12px 20px;
+}
