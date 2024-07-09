@@ -35,7 +35,7 @@
   /* BANNER SECTION STARTS HERE */
 
   .Banner-section{
-    background-image: url(/assets/Hero-bg.png);
+    background-image: url(/assets/hero-bg.png);
     height: 652px;
     margin-top: 38px;
   }
@@ -269,3 +269,92 @@
   font-size: 16px;
 }
 /* Next Target Start here */
+.next-target-top{
+  width: 1040px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 111px;
+}
+.next-main-tittle{
+  font-size: 32px;
+}
+.next-target-paragraph{
+  font-size: 16px;
+  color: rgba(13, 19, 33, 0.7);
+  margin-top: 24px;
+}
+.next-target-box-main{
+  width: 1140px;
+  margin: 0 auto;
+}
+.react-section{
+  border: 1px solid gray;
+  border-radius: 16px;
+  display: flex;
+  padding: 24px;
+  margin-top: 24px;
+}
+.next-target-box-text{
+  margin-left: 24px;
+}
+.tagretsection{
+  margin-bottom: 55px;
+}
+/* Contact me section */
+
+.contact-main-content{
+  margin: 0 auto;
+  width: 1050px;
+  padding: 64px 48px 64px 48px;
+  background:linear-gradient(90.00deg, rgba(14, 1, 1, 0.329),rgba(0, 0, 0, 0.548),rgba(255, 255, 255, 0) 100%), url(/assets/handshake.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  border-radius: 16px;
+  margin-bottom: 100px;
+}
+.contact-tittle{
+  font-size: 32px;
+  color: rgb(255, 255, 255);
+}
+.contact-subtittle{
+  margin-top: 16px;
+  font-size: 16px;
+  color: white;
+}
+.email{
+  margin-top: 24px;
+  font-size: 20px;
+  width: 548px;
+  color: #0D1321;
+  height: 56px;
+  border-radius: 16px;
+  padding-left: 15px;
+  border: none;
+}
+.email-button{
+  font-size: 20px;
+  font-weight: 600;
+  padding: 17px 20px 17px 20px;
+  border-radius: 16px;
+  border: none;
+}
+/* Footer section start here */
+
+.footer{
+  height: 100px;
+  background: rgba(13, 19, 33, 0.03);
+}
+.footer-main{
+  margin-top: 120px;
+  height: 100px;
+  width: 1140px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.footer-text{
+  font-size: 20px;
+}
