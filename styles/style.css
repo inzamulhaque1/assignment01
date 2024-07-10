@@ -29,6 +29,7 @@
     background-color: white;
     font-size: 20px;
     font-weight: 600;
+    cursor: pointer;
   }
   /* NAV ENDS HERE */
 
@@ -66,6 +67,7 @@
     border-radius: 8px;
     font-size: 20px;
     font-weight: 600;
+    cursor: pointer;
     background-color: #0D1321;
     color: white;
     transition: 0.95s;
@@ -97,6 +99,7 @@
   font-size: 16px;
   font-weight: 400;
   color: rgba(13, 19, 33, 0.7);
+  
 }
 /* PARENT LAYER */
 .layer-parent{
@@ -129,6 +132,7 @@
   background-color: white;
   font-size: 20px;
   padding: 12px 20px 12px 20px;
+  cursor: pointer;
 }
 /* LAYER 2 STARTS HERE */
 
@@ -158,6 +162,7 @@
   background-color: white;
   font-size: 20px;
   padding: 12px 20px 12px 20px;
+  cursor: pointer;
 }
 /* LAYER 3 START HERE */
 .layer3{
@@ -186,6 +191,7 @@
   background-color: white;
   font-size: 20px;
   padding: 12px 20px 12px 20px;
+  cursor: pointer;
 }
 /* DEVELOPER SECTION ENDS HERE */
 
@@ -346,6 +352,7 @@
   padding: 17px 20px 17px 20px;
   border-radius: 16px;
   border: none;
+  cursor: pointer;
 }
 /* Footer section start here */
 
